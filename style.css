@@ -105,5 +105,5 @@ p {
   border-radius: 50%;
 }
 .post-container:nth-child(even) {
-  background-color: #D3D3D3;
+  background: #D3D3D3;
 }
